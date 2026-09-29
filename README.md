@@ -3,7 +3,6 @@
 
 👋 Hi, I'm Rayhan!  
 🚀 App Developer | AI Enthusiast | Open Source Contributor  
-🎓 Currently working on a thesis in Machine Learning (Fall 2024)  
 📚 Exploring chatbot architectures, evaluation methods, and conversational AI  
 🔍 Passionate about AI for social impact & healthcare accessibility  
 
