@@ -11,3 +11,6 @@
 
 ---
 
+## Projects
+
+Every repository is tagged with a `cat-...` topic, so you can also click a topic on any repo to see its whole group.
