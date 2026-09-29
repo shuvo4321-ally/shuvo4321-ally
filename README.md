@@ -6,7 +6,7 @@
 📚 Exploring chatbot architectures, evaluation methods, and conversational AI  
 🔍 Passionate about AI for social impact & healthcare accessibility  
 
-📫 Let's connect: shuvoabu4321@gmail.com
+📫 Let's connect: shuvo9565@gmail.com
 
 ---
 
