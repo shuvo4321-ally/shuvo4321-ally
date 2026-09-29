@@ -12,12 +12,14 @@
 
 ## Projects
 
-### Business websites
+### Client Websites
 
-- [**caseva**](https://github.com/shuvo4321-ally/caseva) - E-commerce storefront for designer iPhone cases (Next.js, GSAP)
-- [**ugs-travels**](https://github.com/shuvo4321-ally/ugs-travels) - Travel agency website: visas, flights, hotels, tours (Next.js)
-- [**peshwarain**](https://github.com/shuvo4321-ally/peshwarain) - Bengali restaurant website for Peshawari cuisine in Dhaka (Next.js, GSAP)
-- [**ifs**](https://github.com/shuvo4321-ally/ifs) - Roofing company website (Next.js, SASS)
+Websites I design and build for businesses.
+
+- [**caseva**](https://github.com/shuvo4321-ally/caseva) - Online store for a designer iPhone case brand, with catalog, cart and checkout (Next.js, GSAP)
+- [**ugs-travels**](https://github.com/shuvo4321-ally/ugs-travels) - Website for a travel agency covering visa help, flights, hotels and tour packages (Next.js)
+- [**peshwarain**](https://github.com/shuvo4321-ally/peshwarain) - Bengali website for a Peshawari restaurant in Dhaka, with menu and reservations (Next.js, GSAP)
+- [**ifs**](https://github.com/shuvo4321-ally/ifs) - Website for a roofing company with services, blog and appointment booking (Next.js, SASS)
 
 ### Commerce & booking
 
