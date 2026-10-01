@@ -1,12 +1,15 @@
 
 ---
 
-👋 Hi, I'm Rayhan!  
-🚀 App Developer | AI Enthusiast | Open Source Contributor  
-📚 Exploring chatbot architectures, evaluation methods, and conversational AI  
+# Md. Abu Rayhan Shuvo
+
+👋 Hi, I'm Abu Rayhan Shuvo (Md. Abu Rayhan), a full-stack web developer from Bangladesh.  
+🚀 Full-Stack Developer (Next.js, React, TypeScript) | AI app builder | Open Source Contributor  
+🌐 I design and build websites for businesses: online stores, restaurants, travel and service companies  
+📚 Exploring chatbot architectures, evaluation methods, conversational AI and Bangladeshi legal NLP  
 🔍 Passionate about AI for social impact & healthcare accessibility  
 
-📫 Let's connect: shuvo9565@gmail.com
+📫 Let's connect: shuvo9565@gmail.com · [LinkedIn](https://www.linkedin.com/in/abu-rayhan-shuvo)
 
 ---
 
@@ -56,3 +59,4 @@ Websites I design and build for businesses.
 - [**Interactive-Particle-Box**](https://github.com/shuvo4321-ally/Interactive-Particle-Box) - Interactive particle simulation
 
 Every repository is tagged with a `cat-...` topic, so you can also click a topic on any repo to see its whole group.
+
